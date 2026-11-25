@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#english-version">🇺🇸 English Version</a> | <a href="#versao-em-portugues">🇧🇷 Versão em Português</a>
+  <a href="#english-version"><img src="https://flagcdn.com/16x12/us.png" alt="US"> English Version</a> | <a href="#versao-em-portugues"><img src="https://flagcdn.com/16x12/br.png" alt="BR"> Versão em Português</a>
 </div>
 
 ---
@@ -7,7 +7,7 @@
 <a name="english-version"></a>
 # 🏦 Bank Customer Churn Analysis — Power BI
 
-[![Live Dashboard](https://shields.io)](https://app.powerbi.com/view?r=eyJrIjoiNjg5YzkyZWQtZjI2ZS00ZGM0LTkyMDUtNTE1M2U4ZGE0YjlkIiwidCI6ImYyOWU0MDQ5LTM2YjctNDIxMC04NDhmLWE2YTYxMWI5M2FjZCJ9)
+[![Live Dashboard](https://img.shields.io/badge/Power_BI-Live_Dashboard-2ea44f?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNjg5YzkyZWQtZjI2ZS00ZGM0LTkyMDUtNTE1M2U4ZGE0YjlkIiwidCI6ImYyOWU0MDQ5LTM2YjctNDIxMC04NDhmLWE2YTYxMWI5M2FjZCJ9)
 
 ## 📋 Project Overview
 This end-to-end Business Intelligence project analyzes customer attrition (churn) across a banking institution's customer base. The primary goal is to identify behavioral patterns, demographic profiles, and product-related triggers that lead clients to close their accounts, enabling data-driven retention strategies.
@@ -46,7 +46,7 @@ This end-to-end Business Intelligence project analyzes customer attrition (churn
 <a name="versao-em-portugues"></a>
 # 🏦 Análise de Churn Bancário — Power BI
 
-[![Dashboard Interativo](https://shields.io)](https://app.powerbi.com/view?r=eyJrIjoiNjg5YzkyZWQtZjI2ZS00ZGM0LTkyMDUtNTE1M2U4ZGE0YjlkIiwidCI6ImYyOWU0MDQ5LTM2YjctNDIxMC04NDhmLWE2YTYxMWI5M2FjZCJ9)
+[![Dashboard Interativo](https://img.shields.io/badge/Power_BI-Live_Dashboard-2ea44f?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNjg5YzkyZWQtZjI2ZS00ZGM0LTkyMDUtNTE1M2U4ZGE0YjlkIiwidCI6ImYyOWU0MDQ5LTM2YjctNDIxMC04NDhmLWE2YTYxMWI5M2FjZCJ9)
 
 ## 📋 Visão Geral do Projeto
 Este projeto de Business Intelligence de ponta a ponta analisa a evasão de clientes (*churn*) em uma instituição bancária. O objetivo principal é identificar padrões comportamentais, perfis demográficos e gatilhos relacionados aos produtos contratados que levam os clientes a encerrarem suas contas, fornecendo insumos para estratégias de retenção baseadas em dados.
