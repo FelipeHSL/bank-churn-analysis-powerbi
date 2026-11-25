@@ -13,7 +13,7 @@
 This end-to-end Business Intelligence project analyzes customer attrition (churn) across a banking institution's customer base. The primary goal is to identify behavioral patterns, demographic profiles, and product-related triggers that lead clients to close their accounts, enabling data-driven retention strategies.
 
 ### 📊 Dashboard Preview
-![Bank Churn Dashboard](images/dashboard_churn.png)
+![Bank Churn Dashboard](Images/dashboard_churn.png)
 
 > 🔗 **[Click here to explore the interactive live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjg5YzkyZWQtZjI2ZS00ZGM0LTkyMDUtNTE1M2U4ZGE0YjlkIiwidCI6ImYyOWU0MDQ5LTM2YjctNDIxMC04NDhmLWE2YTYxMWI5M2FjZCJ9)**
 
@@ -52,7 +52,7 @@ This end-to-end Business Intelligence project analyzes customer attrition (churn
 Este projeto de Business Intelligence de ponta a ponta analisa a evasão de clientes (*churn*) em uma instituição bancária. O objetivo principal é identificar padrões comportamentais, perfis demográficos e gatilhos relacionados aos produtos contratados que levam os clientes a encerrarem suas contas, fornecendo insumos para estratégias de retenção baseadas em dados.
 
 ### 📊 Visualização do Dashboard
-![Dashboard Análise de Churn](images/dashboard_churn.png)
+![Dashboard Análise de Churn](Images/dashboard_churn.png)
 
 > 🔗 **[Clique aqui para explorar o dashboard interativo ao vivo](https://app.powerbi.com/view?r=eyJrIjoiNjg5YzkyZWQtZjI2ZS00ZGM0LTkyMDUtNTE1M2U4ZGE0YjlkIiwidCI6ImYyOWU0MDQ5LTM2YjctNDIxMC04NDhmLWE2YTYxMWI5M2FjZCJ9)**
 
